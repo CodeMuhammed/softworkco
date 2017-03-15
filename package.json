@@ -1,0 +1,40 @@
+{
+  "name": "gexpt",
+  "version": "1.0.0",
+  "description": "ip tests for spooky js",
+  "main": "api.js",
+  "dependencies": {
+    "async": "^2.1.5",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.6.5",
+    "compression": "^1.0.11",
+    "cookie-parser": "^1.3.2",
+    "cors": "^2.7.1",
+    "errorhandler": "^1.1.1",
+    "express": "^4.12.3",
+    "express-session": "^1.7.6",
+    "method-override": "^2.1.3",
+    "mongodb": "^2.0.27",
+    "morgan": "^1.2.2",
+    "response-time": "^2.0.1",
+    "serve-favicon": "^2.0.1",
+    "serve-index": "^1.1.6",
+    "tiny-jsonrpc": "^2.0.1",
+    "tunnel": "0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "app": "supervisor web"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
